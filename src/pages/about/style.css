@@ -5,6 +5,7 @@
 .table td,
 .table th {
     color: var(--text-color);
+    background: var( --secondary);
 }
 
 .t_border {
@@ -20,7 +21,7 @@
 
 .progress {
     height: 5px;
-    background: var(--secondary);
+    background: var( --secondary);
     border-radius: 0;
     box-shadow: none;
     margin-bottom: 30px;
