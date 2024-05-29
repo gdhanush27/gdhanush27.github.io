@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Dhanush G - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio! I am Dhanush G, a passionate software engineering student eager to gain hands-on experience and contribute to real-world projects. Below you'll find an overview of my skills, projects, and educational background.
 
-## Available Scripts
+## Contact Information
 
-In the project directory, you can run:
+- **Location:** Kangeyam, Tamil Nadu, India
+- **Email:** [dhanushg.21aim@kongu.edu](mailto:dhanushg.21aim@kongu.edu)
+- **Phone:** +91 94864 21222
+- **LinkedIn:** [linkedin.com/in/gdhanush270](https://linkedin.com/in/gdhanush270)
+- **Portfolio:** [gdhanush270.me](https://gdhanush270.me)
 
-### `npm start`
+## Career Objective
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Actively pursuing a degree in software engineering, I am eager to gain hands-on experience and contribute to real-world projects. Seeking internship or entry-level opportunities where I can apply my academic knowledge, learn industry best practices, and develop practical skills in software development. Dedicated to continuously enhancing my abilities and making meaningful contributions to the field of software engineering.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Skills
 
-### `npm test`
+- **Programming Languages:** C, Java, Python
+- **Frameworks and Tools:** Python Flask, Git, Linux and Command-Line Tools
+- **Machine Learning:** Python
+- **Soft Skills:** Strong organizational and time-management skills, exceptional interpersonal skills, detail-oriented, and able to handle multiple tasks simultaneously.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Areas of Interest
 
-### `npm run build`
+- Full Stack Development
+- Neural Networks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Cyclone Detection using Machine Learning
+Developed algorithms to automatically identify and predict cyclones or hurricanes from various data sources such as atmospheric pressure readings, wind speed, and temperature data.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Pneumonia Predictor Web UI using Deep Learning, React, and Flask
+Created a user-friendly web interface for pneumonia prediction from chest X-ray images. Users can upload images for instant analysis, receiving prompt feedback on pneumonia likelihood and result reliability.
 
-### `npm run eject`
+### E-Learning Website using React, Node.js, and MongoDB
+Developed a simple E-Learning platform. Users can browse courses, access materials, and securely store login credentials. Node.js manages server logic, and MongoDB handles user data. The platform prioritizes simplicity and essential online learning features.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Thanglish-to-English Translator using NLP and Deep Learning
+Developed a translator to convert Thanglish (Tamil-English hybrid) sentences into English using NLP techniques and deep learning models. Implemented custom tokenization and leveraged LSTM, GRU, and Transformer architectures for accurate translations.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Education
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### B.Tech in Artificial Intelligence and Machine Learning
+Kongu Engineering College, Perundurai  
+2021 – 2025 | CGPA: 8.09 (till 5th Semester)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### HSC
+Swami Vivekananda Matric Hr. Sec School  
+2021 | 93.17%
 
-## Learn More
+### SSLC
+Swami Vivekananda Matric Hr. Sec School  
+2019 | 90.8%
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Papers Presented
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **“IOT in Indoor Use”** at Anna University, Chennai
+- **“AI in Bio-Technology”** at KPR Institute of Engineering and Technology, Coimbatore
